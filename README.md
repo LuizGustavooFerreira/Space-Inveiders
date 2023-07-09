@@ -4,8 +4,6 @@ Criado e desenvolvido  com a biblioteca em SDL, PYGAME!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGustavooFerreira&repo=Space-Invaders-pygame&theme=dark)
-
 Resumidamente [Pygame](https://www.pygame.org/news) 
  é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
  
@@ -89,7 +87,7 @@ Agora está tudo pronto... será aberto o menu do jogo. Utilizando o mouse, voc�
 </table>
 
 ### Contato
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-costa-ferreira-bb87bb282/)
 
 ### Referência<br>
