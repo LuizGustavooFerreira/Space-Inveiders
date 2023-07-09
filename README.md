@@ -89,7 +89,7 @@ Agora está tudo pronto... será aberto o menu do jogo. Utilizando o mouse, voc�
 </table>
 
 ### Contato
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-costa-ferreira-bb87bb282/)
 
 ### Referência<br>
